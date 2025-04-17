@@ -12,7 +12,7 @@ import lombok.Data;
     Answer: NO
     Reason:
         - By using concrete class "WiredKeyboard" & "WiredMouse" in MacBook class instead of using Keyboard or Mouse interface,
-            we've constrained the class to not add any other devices like BluetoothKeyword, BluetoothMouse
+            we've constrained the class to not add any other devices like BluetoothKeyboard, BluetoothMouse
 
     Solution:
         - Rather than using concrete class objects, we should use interfaces like Keyboard, Mouse
