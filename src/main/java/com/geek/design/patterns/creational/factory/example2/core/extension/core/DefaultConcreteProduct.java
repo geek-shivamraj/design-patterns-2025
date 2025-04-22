@@ -1,4 +1,4 @@
-package com.geek.design.patterns.creational.factory.example1.core;
+package com.geek.design.patterns.creational.factory.example2.core.extension.core;
 
 public class DefaultConcreteProduct implements Product {
 

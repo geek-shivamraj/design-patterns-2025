@@ -1,6 +1,6 @@
-package com.geek.design.patterns.creational.factory.example1;
+package com.geek.design.patterns.creational.factory.example2.core.extension;
 
-import com.geek.design.patterns.creational.factory.example1.core.Creator;
+import com.geek.design.patterns.creational.factory.example2.core.extension.core.Creator;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
