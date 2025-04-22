@@ -1,6 +1,6 @@
-package com.geek.design.patterns.creational.factory.example1.extension;
+package com.geek.design.patterns.creational.factory.example2.core.extension.extension;
 
-import com.geek.design.patterns.creational.factory.example1.core.Product;
+import com.geek.design.patterns.creational.factory.example2.core.extension.core.Product;
 
 /*
     - Based on Product Type i.e., EXTENDED
